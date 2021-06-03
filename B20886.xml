@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A specimen of a comment on the Old Testament by the taghmical art in III parts, I. on the textual, classical or doctrinal scriptures, II. on the doubtful, difficult, and wrong translated places, III. an analysis, with intermix'd observations, as matter requires thoro the rest, to make the whole compleat ...</title>
+            <author>Cross, Walter, M.A.</author>
+         </titleStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20886</idno><idno type="EEBO-CITATION">8626032</idno>
+  <idno type="VID">204303</idno>
+  <idno type="EEBO-PROQUEST">2264207569</idno>
+  
+            <idno type="STC">Wing C7263_VARIANT</idno>
+            <idno type="OCLC">08626032</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204303)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1254:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A specimen of a comment on the Old Testament by the taghmical art in III parts, I. on the textual, classical or doctrinal scriptures, II. on the doubtful, difficult, and wrong translated places, III. an analysis, with intermix'd observations, as matter requires thoro the rest, to make the whole compleat ...</title>
+                  <author>Cross, Walter, M.A.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Walter Cross.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Criticism, interpretation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204303:1"/>
+            <pb facs="tcp:204303:2"/>
+            <p>A SPECIMEN OF A COMMENT ON THE OLD TESTAMENT BY THE Taghmical Art. In III. PARTS.
+<list>
+                  <item>I. On the Textual, Classical or Doctrinal Scriptures.</item>
+                  <item>II. On the Doubtful, Difficult, and Wrong Translated Places.</item>
+                  <item>III. An Analysis, with intermix'd Observa<g ref="char:EOLhyphen"/>tions, as Matter requires, thoro the rest, to make the whole Compleat.</item>
+                  <item>The Art it self, with the Doctrine about it, is now in the Press, thoro the Patronage of His Grace the Archbishop of Canterbury; And the Encouragement of some other Gentlemen, who desire that their Country should be a Land of Light; and are willing to be at Charges in or<g ref="char:EOLhyphen"/>der to it.</item>
+                  <item>The First of these Parts (whereof this is a Pattern only) is also ready, when it can meet with the like be<g ref="char:EOLhyphen"/>nign, obstetricating Hands, that the Parent may not be over-charg'd with its Pressure into the World.</item>
+               </list>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="commentary">
+            <pb facs="tcp:204303:3"/>
+            <pb facs="tcp:204303:3"/>
+            <head>A Specimen OF THE <hi>Taghmical Art.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Genesis 1. v. 1.</hi>
+                  </bibl>
+                  <l>
+                     <gap reason="foreign" resp="#oxf">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>In the beginning God created the Heaven and the Earth.</l>
+               </q>
+            </epigraph>
+            <p>THE Earth has —֔— —֖— by <hi>R.</hi> 1. <hi>M.</hi> 1. Silluk <hi>the Sentence and the Verse doth end;</hi> From which we may discover the Error of <hi>Grotius</hi> in his Com<g ref="char:EOLhyphen"/>ment on this Verse, who renders it thus, <hi>When first God created the Heaven and the Earth, the Earth was without form,</hi> &amp;c. <hi>P. Simeon</hi> adds thus, <hi>Or be<g ref="char:EOLhyphen"/>fore God created the Heaven and the Earth:</hi> These, says he, are two Literal, proper and Grammati<g ref="char:EOLhyphen"/>cal Senses, preferable to the Vulgar.</p>
+            <pb n="4" facs="tcp:204303:4"/>
+            <p>The end of this is to find a Pretence for the <hi>Pagan</hi> Doctrine of Eternal Matter in Divine Re<g ref="char:EOLhyphen"/>velation; all the later Philosophers among the <hi>Gentiles, Rom.</hi> 1. <hi>growing vain in their imaginations, Dem. Epicurus Ar. &amp;c.</hi> did maintain and defend Prae-existent Matter. Many Mungrel and Nomi<g ref="char:EOLhyphen"/>nal Christians, <hi>Manichees, Marcionites, &amp;c.</hi> and some later, and of better Note, as <hi>Prae-Ada<g ref="char:EOLhyphen"/>mites</hi> and others, <hi>viz. Smalcius, Vorstius, &amp;c.</hi> Be<g ref="char:EOLhyphen"/>sides many <hi>Rabbins</hi> held this Doctrine. But one Argument stops their Mouth, <hi>We are not to be wise above what is written</hi> How shall we believe without Testimony? <hi>Heb.</hi> 11.2, 3. The Doct<g ref="char:EOLhyphen"/>rine of Creation belongs to our Faith, not our Science.</p>
+            <p>Late Criticks have made Artificial Foundations for many such Notions; and these Two, That they might give ease to Omnipotence, and find work for their high Towring Fancies, have digged in this Text for one to this Doctrine, which they strongly prop up from <hi>Heb.</hi> 11.3. <hi>Things that are, were made out of things which did not appear.</hi> But both Fathers and Sons in Divinity answer, The Chaos appeared not for want of Light and Nothing, much less for want of Entity, therefore this will not support it. The Orthodox further oppose to this Doctrine, besides the Arguments from Reason,</p>
+            <p n="1">1. That the <hi>Hebrew</hi> Language has no other Word to signifie a making of nothing.</p>
+            <p n="2">2. That <hi>Paul</hi> desines Creation by a Word that imports no less, <hi>Rom.</hi> 4.17. <hi>A calling things that are not as though they were.</hi>
+            </p>
+            <p n="3">3. <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>the Literal Particle is affixed to <hi>Beginning, In the beginning;</hi> not to <hi>create,</hi> when or before God created.</p>
+            <pb n="5" facs="tcp:204303:4"/>
+            <p n="4">4. Parallel Places propose the Creation of Hea<g ref="char:EOLhyphen"/>ven and Earth in positive Assertions, <hi>Gen.</hi> 2.1. <hi>John</hi> 1.3. <hi>Psal.</hi> 102.25. not in relative Proposi<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="5">5. <hi>Prov.</hi> 8.24. <hi>Before ever the Earth was, when there was no deep.</hi> 1st. I infer, The <hi>Deep</hi> or <hi>Chaos</hi> had <hi>Wisdom</hi> Personal, set up, brought forth before it, therefore not from Eternity. 2dly. The <hi>Earth</hi> and <hi>Chaos</hi> are contemporary Twins.</p>
+            <p>But now further, in the Sixth Place, by the Rules of Interpretation, used both by <hi>Jews</hi> and <hi>Samari<g ref="char:EOLhyphen"/>tans,</hi> especially the <hi>Scribes, Ezra</hi> 4.7, 8. whose Chancellor or President is called <hi>Baghal Taghim,</hi> or <hi>Master of the Taghmical Art, Silluk</hi> suffers not the Proposition in the <hi>v.</hi> 1. to bear any such relative respect, he is an absolute Lord, and makes an absolute stop from the Sense, <hi>Vide Ar. Tagh. lib.</hi> 2. §. 1. Where this is at large prov'd and explain'd, and therefore their Interpretation and Opinion too are repugnant to the Literal Sense of the Text.</p>
+            <p>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>comes not from <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to run,</hi> or <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to prance,</hi> but from <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to humble,</hi> much in use in the <hi>Arabick;</hi> and has its Tendons fix'd still in Sacred Writ, <hi>Jer.</hi> 49.19. &amp; 50.44. <hi>I will depress or humble him from her.</hi> So. <hi>Psal.</hi> 68.31. <hi>Aethiopia</hi> shall humble or submit <hi>her hands,</hi> and by an usual Change, <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Dan.</hi> 2.39. &amp; 6.24. Observe that there are many false <hi>non inventus</hi>'s asserted of the Bible. And 2dly, That no Concordance nor Lexicon are yet com<g ref="char:EOLhyphen"/>pleat; for none of them have this Root <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to <hi>make low,</hi> tho so plain in <hi>Jeremiah.</hi>
+            </p>
+            <note place="bottom">From <hi>Aeretz</hi> comes 1. The <hi>German erd, Erth.</hi> 2. The <hi>En<g ref="char:EOLhyphen"/>glish Earth.</hi> 3. The <hi>Latine Terra, arret,</hi> and <hi>Tacitus</hi> his <hi>Er<g ref="char:EOLhyphen"/>tham</hi> or <hi>Hertam.</hi> 4. The <hi>Greek</hi>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</note>
+            <pb n="6" facs="tcp:204303:5"/>
+            <p>In the Second Place comes —֥—, under <hi>Veaeth,</hi> the Mark of an <hi>Accusative</hi> after an <hi>Active</hi> Verb, by <hi>R.</hi> 2. <hi>M.</hi> 1. and <hi>Tab.</hi> 1. it is <hi>Silluk</hi>'s Minister, and signifies a <hi>close Ʋnion,</hi> and indeed it is so <hi>close</hi> here, that it signifies nothing out of <hi>Ʋnion,</hi> and therefore has usually —, the most conjunctive of all <hi>Points,</hi> and is of great use to distinguish be<g ref="char:EOLhyphen"/>tween <hi>aeth</hi> the Mark of <hi>accusative,</hi> and <hi>aeth</hi> signi<g ref="char:EOLhyphen"/>fying <hi>from</hi> or <hi>by,</hi> which refutes them who would translate <hi>v.</hi> 16. <hi>with the Stars.</hi> And <hi>Maimonides</hi> who translates it thus, <hi>The Heaven with the Earth.</hi>
+            </p>
+            <p>It signifies, says <hi>Nachm,</hi> the transition of the Person by the Verb <hi>Active</hi> on the <hi>Noun. D. Rim,</hi> with others, add, That it denotes the <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the substance of the thing, and all that be<g ref="char:EOLhyphen"/>longs to its Integrity or Perfection. So that here is signified the Creation of the Heaven and the Earth in their Substance: Hence the <hi>Syriac</hi> has <hi>esse Caeli, &amp; esse Terrae,</hi> the very <hi>Matter</hi> and <hi>Essence</hi> of the Heaven and Earth, and a Creation of them with their Hosts, Inhabitants and Furniture; and it is the more likely, if <hi>Michlot Jophi</hi>'s Rule be true, That its use is to denote the Patient; hence seldom used when the <hi>accusative</hi> or <hi>patient</hi> is suf<g ref="char:EOLhyphen"/>ficiently known, which being manifest in this Text, its use is of another import, to wit, to denote the Penetration and Extension of the <hi>action</hi> on the <hi>subject.</hi> Which is opposite enough to <hi>Gaffa<g ref="char:EOLhyphen"/>rillus</hi> and <hi>Corn. Agrippa,</hi> who put <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a <hi>Sign,</hi> for then Creation would extend only to the Furniture or Ornament of the Heavens.</p>
+            <p>2dly. It supposes the <hi>Original</hi> corrupted, in <hi>Consonants, Vowels</hi> and <hi>Accents.</hi>
+            </p>
+            <note place="bottom">It is more like Truth, That our <hi>the</hi> comes from <hi>eth,</hi> than that <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is derived from <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to come.</hi>
+            </note>
+            <pb n="7" facs="tcp:204303:5"/>
+            <p>
+               <hi>Thirdly,</hi> —֖— Under <hi>Haschamaim</hi> appears by <hi>R.</hi> 3. and <hi>T.</hi> 1. <hi>c.</hi> 3. which signifies <hi>Earth</hi> and <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> not to be joined together, but <hi>separated,</hi> as <hi>little Members</hi> within a Proposition being a little Lord tho <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and unite them Verbally, yet as to sense the <hi>Verb</hi> is implicitely repeated in <hi>Earth, he created the Heaven, and he created the Earth.</hi> So in sense its the <hi>Verb</hi> that is <hi>united</hi> or <hi>repeated;</hi> for the <hi>Nouns</hi> are as opposite extreams as <hi>Heaven</hi> and <hi>Earth,</hi> by which I intend not to play or delude with an Aequivocation; for distance in place, in<g ref="char:EOLhyphen"/>fers not distance in <hi>sense</hi> or <hi>construction:</hi> But my intent is to shew, that —֖— refutes or opposes the Scholastick <hi>Chaos.</hi>
+            </p>
+            <p>The <hi>Pagan</hi> Philosophers, some at least, are for an Eternal Chaos, or Mass of Matter, out of which God created all things. But some Divines are for a Temporary Chaos, created some time before that initial Week of the reducing this Earth into its present Form and Order.</p>
+            <p>Now by <hi>Heaven</hi> and <hi>Earth</hi> cannot be understood some one undigested and confused Mass; for <hi>Tip<g ref="char:EOLhyphen"/>cha</hi> proposes them as two of the most opposite, distinct and separated Beings of the whole Cre<g ref="char:EOLhyphen"/>ation.
+<note place="bottom">
+                  <hi>Schamajim</hi> has many both false and foolish <hi>Derivations:</hi> 1. <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> There are Waters from the Coelestial Wa<g ref="char:EOLhyphen"/>ters, <hi>v.</hi> 6. 2. <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Sa Majim,</hi> it sustains Waters. 3. <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> from the Praefix, because of Waters. 4. <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Fire and Water. 5. <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to be amazed be<g ref="char:EOLhyphen"/>cause of Water. But <hi>Compositions</hi> among <hi>Appellatives</hi> is con<g ref="char:EOLhyphen"/>trary to the <hi>Genius</hi> of this Tongue. All the Learned agree, That its <hi>Root</hi> is in <hi>Arabac,</hi>
+                  <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to be <hi>high:</hi> Hence <hi>height</hi> is the common <hi>Epithet</hi> of <hi>Heaven,</hi> as <hi>lownes</hi> is of the <hi>Earth, Exod.</hi> 20.5. <hi>That is in the</hi> Heaven above, <hi>or in the</hi> Earth <hi>below,</hi> Job 11.8. <hi>Prov.</hi> 25.3. <hi>Gen.</hi> 11.4.</note>
+               <pb n="8" facs="tcp:204303:6"/> Heaven and Earth is the first Division of Creatures, and therefore most opposite.</p>
+            <p>Hence we may learn the Scope of this last <hi>Hae<g ref="char:EOLhyphen"/>mistich,</hi> which is not to assert first the Creation of the <hi>Matter</hi> of the World, as a <hi>rude heap,</hi> so <hi>Gerard Hackspan,</hi> and <hi>Prucknerus,</hi> think, with others: But to make a Summary Proposal of the General Ob<g ref="char:EOLhyphen"/>ject particularly insisted on thorow the <hi>Chapter;</hi> So <hi>Aestius</hi> and <hi>Seb. Schmid.</hi> with others, which is confirmed from what follows.</p>
+            <p>Hence we may learn, That <hi>Heaven</hi> and <hi>Earth</hi> is a Sacred Phrase for <hi>Ʋniverse, all things,</hi> the <hi>whole World,</hi> and may be confirm'd from <hi>Psal.</hi> 124.8. <hi>Acts</hi> 14.15. and 17.24.</p>
+            <p>By <hi>Heaven</hi> then is understood all that is not <hi>Earth:</hi> But where to place the limits between them is the Question; tho from what follows we may solve it, <hi>viz.</hi> That <hi>Heaven</hi> is receptive of va<g ref="char:EOLhyphen"/>rious <hi>acceptations;</hi> but in the Text it is <hi>All that that is beyond or above the uttermost border of the Fir<g ref="char:EOLhyphen"/>mament, where the fix'd Stars stand plac'd;</hi> in other places following, the <hi>surface</hi> of the <hi>Earth,</hi> or <hi>At<g ref="char:EOLhyphen"/>mosphaere, i. e.</hi> what is above either.</p>
+            <p>There is another Question here <hi>de casu Nomi<g ref="char:EOLhyphen"/>nis, viz.</hi> What Number it is, <hi>dual</hi> or <hi>plural,</hi> the <hi>accent</hi> on the <hi>penult</hi> makes it <hi>dual,</hi> but the <hi>Aethio<g ref="char:EOLhyphen"/>pic</hi> having the <hi>singular Schamai,</hi> and the <hi>Root Scha<g ref="char:EOLhyphen"/>mah</hi> affording regularly <hi>Nouns</hi> of that derivati<g ref="char:EOLhyphen"/>on. And 3dly, There being <hi>Heaven of Heavens,</hi> and <hi>Third Heavens,</hi> I believe with <hi>Hottinger,</hi> and <hi>Lud de Dieu,</hi> that it is <hi>plural.</hi>
+            </p>
+            <p>There remains yet one Question more about <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Emphatick,</hi> or <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Notificative, these Hea<g ref="char:EOLhyphen"/>vens, and this Earth. P. Simon</hi> blames <hi>Tremeliius</hi> for translating it thus, but he should first blame <hi>Aben
+<pb n="9" facs="tcp:204303:6"/>Ezra,</hi> who so long before him turn'd it thus, and <hi>H. G.</hi> and <hi>Paraeus,</hi> and all the <hi>Hebrew Grammars;</hi> and then he should prove that that is not the use of this <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That which we learn from it is the erroneous<g ref="char:EOLhyphen"/>ness of them who talk of <hi>Pre-Adamites</hi> and <hi>prae-aeri<g ref="char:EOLhyphen"/>zits</hi> many Worlds before this; For <hi>Moses</hi> informs us, That the <hi>Heaven</hi> and <hi>Earth</hi> which God created in the beginning, was this very <hi>Earth,</hi> and these very <hi>Heavens</hi> of which <hi>Moses</hi> gave Account.</p>
+            <p>
+               <hi>Fourthly,</hi> —֑— <hi>atnach</hi> under <hi>Elohim,</hi> is here Rhe<g ref="char:EOLhyphen"/>torical or Emphatick by <hi>R. R.</hi> 2. <hi>M.</hi> 2. for where the Verse contains but one Proposition, there is no proper place for <hi>atnah,</hi> whose use is to divide the Verse into the most opposite Propositions; And hence we may know wherein the Emphasis consists, <hi>viz.</hi> repeating the <hi>Verb</hi> that is on one side of —֑— on the other also, and shewing it to be taken in the most full and ample Signification So that to fill up <hi>Silluks</hi> Proposition. <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>bara</hi> with <hi>sakeph gadol</hi> is to be supply'd next to <hi>Elohim;</hi> In <hi>English</hi> thus, <hi>In the beginning God created:</hi> He, I say, <hi>really cre<g ref="char:EOLhyphen"/>ated</hi> these <hi>Heavens</hi> and this <hi>Earth.</hi> Hence we have a most strong Confirmation, that the use and signification of the Word <hi>Bara,</hi> in this place, is to assert a <hi>production out of nothing.</hi>
+            </p>
+            <p>Some may think that the Emphasis should be enquired for in <hi>Elohim,</hi> not in <hi>Bara,</hi> because —֑— is under it: I Answer, If it were a <hi>little Lord</hi> or <hi>Minister</hi> that affects single Terms, so it would. But —֑— stands under <hi>Elohim</hi> because he is the last Word of the Sentence; for its the whole Sentence he affects, and the Essence of the Sentence lies in the <hi>Indicative Verb.</hi>
+            </p>
+            <p n="1">1. <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Aelohim</hi> is not truly deriv'd from <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>strong,</hi> for is never changed into *. 2. <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>he
+<pb n="10" facs="tcp:204303:7"/>mappikatum</hi> in <hi>Eloah</hi> shews <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to be Radical; nor from <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>strength.</hi> Nor 3dly, <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>their strength.</hi> Nor 4thly, Primarily from <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to swear;</hi> but from <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> yet in use among the <hi>Arabians, to adore</hi> or <hi>worship,</hi> a part whereof <hi>swearing</hi> is, in which sense the Bible retains the Word. This seems pre<g ref="char:EOLhyphen"/>serable to <hi>Aben Ezra's</hi> Opinion, who thinks it a <hi>primitive.</hi> In the New Testament <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>wor<g ref="char:EOLhyphen"/>shippable,</hi> the <hi>Adori</hi> is used by <hi>Paul</hi> in the Epistle to the <hi>Thessalonians.</hi> 2. In the Old Testament it is the Name God declares himself by as the Ob<g ref="char:EOLhyphen"/>ject of Love, Service and Swearing; And the first Command of the Law is 3dly, to have no other <hi>Elohim, i. e.</hi> to <hi>worship</hi> none else. 4thly, It is very suitable, for his <hi>creating us</hi> is the most suitable foundation, and founds a most just Title to all our <hi>Worship</hi> and <hi>Service.</hi>
+            </p>
+            <p>A Second Question is <hi>de casu Nominis,</hi> How it comes to be in the <hi>plural</hi> Number? <hi>Grotius</hi> thinks the <hi>singular</hi> is to be supplied before it, <hi>Eloah Elo<g ref="char:EOLhyphen"/>him.</hi> But then <hi>Bara</hi> would bear a <hi>third word, tip<g ref="char:EOLhyphen"/>cha,</hi> not <hi>munah,</hi> as next to it. Many <hi>Papists, Protestants, Lutherans</hi> and <hi>Calvinists</hi> that are well skill'd in Criticism, think a <hi>Plurality in the Deity</hi> is understood, and such as is consistent with a <hi>sin<g ref="char:EOLhyphen"/>gular individual Essence,</hi> and therefore that the <hi>Tri<g ref="char:EOLhyphen"/>nity</hi> is denoted. And to evade the Objections of <hi>Socinians,</hi> they form the Argument thus. 1. Eve<g ref="char:EOLhyphen"/>ry Word in the <hi>Plural</hi> Number. 2. Having a <hi>Singular</hi> Number. 3. Without <hi>analogy</hi> of Number. 4. The same signification being retained. 5. Car<g ref="char:EOLhyphen"/>rying <hi>Verb Participle</hi> or <hi>Adjective</hi> to the <hi>Plural</hi> with it. 6. In the Third Person, as well as First or Second is of a <hi>plural</hi> signification. But <hi>Elohim</hi> is, <hi>Ergo</hi>
+            </p>
+            <pb n="11" facs="tcp:204303:7"/>
+            <p>
+               <hi>Fifthly,</hi> Of <hi>Bara</hi> already, It bears <hi>Munah Mi<g ref="char:EOLhyphen"/>nister</hi> to —֑— by <hi>T.</hi> 1. <hi>R.</hi> 2. <hi>M.</hi> 2. which shews that <hi>Elohim</hi> is the <hi>Nominative</hi> to it; and it being in the singular, does denote that whatever <hi>plura<g ref="char:EOLhyphen"/>lity</hi> be in the Deity, there is but one <hi>Creator,</hi> one <hi>God;</hi> whatever Multiplicity or Variety there is in formal, objective Considerations to draw forth our Adoration toward him, there is but one <hi>un<g ref="char:EOLhyphen"/>divided Substance,</hi> who was before all Creatures, and by his powerful act gave being to them.</p>
+            <p>
+               <hi>Sixthly, Braesehit</hi> bears —֖— which well agrees with the order of <hi>T.</hi> 1. and <hi>R.</hi> 3. as also the sense, for being a <hi>little Lord,</hi> it denotes the distance be<g ref="char:EOLhyphen"/>tween single Terms: What makes up the Essence of the Sentence, is united by —֣— a <hi>Minister,</hi> and if it belong'd to another Sentence it would bear a <hi>Major</hi> that divides <hi>Propositions;</hi> therefore —֖— shews that it is an <hi>adjunct</hi> or <hi>circumstance</hi> of this <hi>Propo<g ref="char:EOLhyphen"/>sition,</hi> and indeed, tho the variety of significations attributed to this Word, is great, yet all agree in this.</p>
+            <p>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>in <hi>Braeschit</hi> is by <hi>Cabbalists</hi> counted mysteri<g ref="char:EOLhyphen"/>ous, and that two ways; first Numerically, to Ages, Laws or kinds of Divinity. <hi>Maghasche Bereschith</hi> signifying Natural Religion, and <hi>Ma<g ref="char:EOLhyphen"/>ghasche Mecchaba, mysterious Divinity.</hi> Others think God begins his Book with <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, because that begins <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>blessing;</hi> for <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> begins <hi>arurah, cursing;</hi> but these are Monsters rather than Mysteries.</p>
+            <p>
+               <hi>John</hi> in his Gospel, <hi>c.</hi> 1. <hi>v.</hi> 1. interprets both <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to us</hi> turning it <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>in the be<g ref="char:EOLhyphen"/>ginning.</hi> So the Lxx. so <hi>Onkelos,</hi> and <hi>Jonath. Ben. Ʋziel Bekadmin,</hi> and so the Vulgar, and so the most usual Translations. Hence the others fall <hi>Hierais. Targum</hi> in <hi>Wisdom, Tertull.</hi> in <hi>Power; Procop.</hi> in
+<pb n="12" facs="tcp:204303:8"/>his <hi>Empire.</hi> 2. In the Foundation. 3. In the Head or Sum. 4. In the Foundation. <hi>Philo</hi> in Order before all. So <hi>R. Bechai</hi> and <hi>Castalio. Maimonides</hi> with Matter. And among all the most authorized, in the Son, which shall be exa<g ref="char:EOLhyphen"/>mined afterwards. The <hi>Root</hi> is <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Head,</hi> or the <hi>Arabick Raasa, to excel,</hi> from which we may learn the use of Skill in these <hi>Eastern</hi> Tongues (tho there is not much in their Translations) for in one Verse (and that the very first) that contains but Five Words, has Four of them deriv'd from the <hi>Arabick.</hi>
+            </p>
+            <p>Here yet remains Two Questions, The first is, if <hi>Breschith</hi> be in Government or not? that is, if the sense be in the beginning of Creation or Time, or in the beginning of all things, or in the begin<g ref="char:EOLhyphen"/>ning of God's Ways, <hi>Prov.</hi> 8.22. or Works. I answer, tho any of these speak the truth of the Case, the Word is not Grammatically in <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> for then it would have a <hi>Minister</hi> to signifie something understood, with which it did agree, which it has not. But being put absolutely, sig<g ref="char:EOLhyphen"/>nifies the <hi>first</hi> and <hi>chief beginning,</hi> before which no<g ref="char:EOLhyphen"/>thing was that was capable of a beginning.</p>
+            <p>The <hi>Second</hi> Question is, if <hi>Breschith</hi> be taken here Metaphysically, for the first inconceivable Minute that was measured by <hi>Nothings passing into being,</hi> that attended the first Jogg of Creative Mo<g ref="char:EOLhyphen"/>tion; or if more largely, for all the Time that Creative Power continued Exertions of that kind, <hi>viz.</hi> 6 Days, according to common Opinion. But <hi>Seven,</hi> a <hi>Week,</hi> is the Creative Cycle, and as we shall see from the next instance, wanted not its Work. I am for the latter Opinion; for the first is a Word without an <hi>Idea.</hi> 2dly, Is contrary to
+<pb n="13" facs="tcp:204303:8"/>Scriptures vulgar Style, especially in the Works of Nature. 3dly. <hi>Beginning</hi> is used in this lati<g ref="char:EOLhyphen"/>tude through Scripture when applied to the <hi>Crea<g ref="char:EOLhyphen"/>tion,</hi> and opposed to after successive <hi>Periods, Pro.</hi> 8.22. Christ was possessed in the beginning of God's Ways, therefore the <hi>Seventh</hi> Day comes within the beginning, See <hi>Matth.</hi> 19.4, 8. &amp; 24.21. &amp; 25.34. <hi>Mark</hi> 10 6. &amp; 13.19. 2 <hi>Tim.</hi> 1.6. Given us in Christ before successive Ages or Periods, <hi>Rom.</hi> 16.25. 1 <hi>Pet.</hi> 1.20. <hi>Eph.</hi> 1.4. 4thly, The Verse being a Sum of the whole, this <hi>beginning</hi> must stand commensurate with its <hi>Subject.</hi>
+            </p>
+            <p>A Third Question is, Which <hi>Week</hi> of the <hi>Year</hi> this is, which of the <hi>Fifty Two</hi> is the Creative Ini<g ref="char:EOLhyphen"/>tial Week. <hi>R.</hi> That Week which was the begin<g ref="char:EOLhyphen"/>ning Week of the Year, until as God changed the <hi>Sabbath,</hi> God appointed another <hi>beginning</hi> to the <hi>Year,</hi> when the <hi>Israelites</hi> came out of <hi>Egypt. Nisan</hi> our <hi>March</hi> was then the <hi>first Month,</hi> but before that <hi>September,</hi> their <hi>Tizri,</hi> from that the <hi>Sabbatical</hi> and <hi>Jubile</hi>-Year still begins. If it were not the first Week of the first Month, of the first Year, it would not be absolutely the begin<g ref="char:EOLhyphen"/>ning, and this was the first Week of <hi>September</hi> or <hi>Tizri,</hi> [there is no place for intercalation or comparison here] To this the <hi>Jews Paraphrast. Cabbal.</hi> Historical agree; to this Nature agrees, every thing having its Seed in its self, and its Fruit ripe; to this the Gospel agrees, Christ being Born in this Month. Thus the Year and Day agree, beginning both from their Evening Season. So the Sun was created in <hi>Libra</hi>—. The sense of the <hi>Verse</hi> is thus:</p>
+            <p>
+               <q rend="inline">
+                  <hi>In the beginning</hi> of all Created Being, Motion, Time or Season, within the compass of the <hi>first,
+<pb n="14" facs="tcp:204303:9"/>Week,</hi> probably the <hi>first</hi> of <hi>September. God,</hi> the only adorable one, and that on this very bot<g ref="char:EOLhyphen"/>tom, <hi>Created,</hi> made out of meer Nothing, <hi>I say,</hi> by infinite Power and Skill brought forth, with<g ref="char:EOLhyphen"/>out the assistance of any antecedent Matter, <hi>these Heavens, and this very Earth.</hi> The vast quantity of most extended Spheres.</q> The Dia<g ref="char:EOLhyphen"/>meter of this Earthly <hi>Sphere</hi> from one Pole Star to the opposite Point, contains Millions of Leagues. But that is a Point in comparison of the Circumference of the Heavens of Heavens.</p>
+            <p>
+               <hi>Division:] Atnach</hi> being here Rhetorically only, the Verse Logically makes but one Pro<g ref="char:EOLhyphen"/>position, which consists in these Four Things, Two Essential, <hi>Act</hi> and <hi>Agent;</hi> Two Circumstan<g ref="char:EOLhyphen"/>tial, <hi>Object</hi> and <hi>Time.</hi>
+            </p>
+            <p>
+               <hi>Scope:]</hi> The <hi>Scope</hi> is to assert a <hi>Creation,</hi> that all the <hi>Ʋniverse,</hi> all this <hi>Weeks Work</hi> was the effect of immediate Omnipotence, Some without any <hi>matter,</hi> the rest out of <hi>matter,</hi> uncapable by natu<g ref="char:EOLhyphen"/>ral Power, this the Emphatick <hi>Atnach</hi> shews.</p>
+            <q>
+               <bibl>
+                  <hi>Genesis</hi> 1. v. 2.</bibl>
+               <p>
+                  <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Verse 2.</hi> And the Earth was without form and void, and Darkness was upon the face of the Deep: And the Spirit of God moved upon the face of the Waters.</p>
+            </q>
+            <p n="1">I. <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>under <hi>Hammajim,</hi> as before by <hi>R.</hi> 2. <hi>M.</hi> 1. shews that <hi>Moses</hi> here stops his Account of the
+<pb n="15" facs="tcp:204303:9"/>Earths Properties and Qualifications, when first made; and that tho <hi>Light</hi> and <hi>Day</hi> was a Work of the same First Day, yet it was a distinct, sepa<g ref="char:EOLhyphen"/>rate act from the former, and super-added in or<g ref="char:EOLhyphen"/>der to its Perfection. Hence you have the neces<g ref="char:EOLhyphen"/>sary Original of <hi>beginning,</hi> the natural Day from the Evening, because the Earth was created in Darkness. And 2dly, The time of the Earth's dura<g ref="char:EOLhyphen"/>tion in that dark, confused Chaosical State; it was the ordinary space of a Night, and not as some fancy, from all Eternity, or for many Ages; for this time of Darkness, with a proportioned mea<g ref="char:EOLhyphen"/>sure of Light after its Creation, made up but one of the six or seven Natural Days; if this Even<g ref="char:EOLhyphen"/>ing was a Thousand Years long, it was a very un<g ref="char:EOLhyphen"/>proportioned 7th part of a Week.</p>
+            <p n="2">II. —֥— under <hi>Phnae, Silluk's</hi> Minister, <hi>R.</hi> 2. <hi>M.</hi> 2. signifies its conjunction and construction with <hi>Ma<g ref="char:EOLhyphen"/>jim Waters</hi> and —mahapakh;— <hi>Maccaph.</hi> 3dly, signifies yet a more close conjunction between <hi>ghal</hi> and <hi>phnae, R. R.</hi> 3. and imports this Brooding Motion never to reach the Center of the Earth; (but the Surface) that has stood solid, unmov'd from the first crea<g ref="char:EOLhyphen"/>tive Act, no Earthquake nor Deluge has had force to over-weigh the Ballast of this Vessel we swim through the vast Aereal Ocean in, (and indeed the very Name of calling the whole deep <hi>Chaos, Water,</hi> imports the dry or solid part to be but as a Vessel or <hi>Ship</hi> in comparison of the liquid) which shews that to be no proper place for Hell. If <hi>Sun, Moon</hi> and <hi>Stars</hi> be habitable, its most like the Devils, Fallen Angels, that left a better Heaven, dwell in these <hi>Heavenly Places,</hi> they are <hi>Princes and Powers of the Air,</hi> they are called <hi>Stars,</hi> may be as Man <hi>Adam,</hi> or <hi>Earth;</hi> and if a Third Part,
+<pb n="16" facs="tcp:204303:10"/>as some think, of the Created Angels fell, there are enough for Peopling all the Stars. Christ in his Triumphal Ascent might descend into these Orbs, and bind Captive Devils, <hi>Rev.</hi> 12. For since we never read of their appearing with Holy An<g ref="char:EOLhyphen"/>gels, as <hi>Job</hi> 1. in the blessed Regions.</p>
+            <p n="3">III. —֖— under <hi>merahepheth,</hi> by <hi>R.</hi> 3. <hi>M.</hi> signi<g ref="char:EOLhyphen"/>fies the <hi>Verb</hi>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to be neutral, and that tho it convey quickening effects, and an hatching heat to the Waters, by which they were fitted and pre<g ref="char:EOLhyphen"/>pared to put on the following Forms of Light, Air, Firmament, <hi>&amp;c.</hi> Yet it remain'd a distinct thing from that Matter, and more belongs to the <hi>Agent</hi> than <hi>Object;</hi> it did not by an active tran<g ref="char:EOLhyphen"/>sition pass over, and become its, as the Creative act did. But to prevent our conceivng this Mo<g ref="char:EOLhyphen"/>tion to be in God from this neutral <hi>Verb,</hi> (whose Nature is that the <hi>agent</hi> be <hi>patient</hi> also; for in<g ref="char:EOLhyphen"/>stance, <hi>I run,</hi> in this I am both doer and sufferer) <hi>merahhepheth mov'd,</hi> is distinguish'd from <hi>Elohim</hi> by —֔— as well as from the <hi>face of the earth</hi> by —֖— a strong Argument for the <hi>Cartesian</hi> Notion of con-creating a quantity of Motion with this Cha<g ref="char:EOLhyphen"/>os, as Time was. The whole of that Motion now by the signification of this Word <hi>rahhap</hi> puts on a seminal, prolifick, nourishing form or kind, <hi>Deut.</hi> 22.11. &amp; <hi>Jer.</hi> 23.2. not that of a tempe<g ref="char:EOLhyphen"/>stuous <hi>Storm</hi> or <hi>Hurrican,</hi> for then <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> would be used. But a nutritive, preserving Mo<g ref="char:EOLhyphen"/>tion is understood. <hi>Creation</hi> was by a violent force, and the whole Mass had revolved into its Origi<g ref="char:EOLhyphen"/>nal Nothing, without a constant, preserving pow<g ref="char:EOLhyphen"/>er, which is exprest in this prolisick, breeding Expression, confirmed by the <hi>Syrian</hi> and <hi>Arabian</hi>
+               <pb n="17" facs="tcp:204303:10"/>Tongue, and the Fable of the <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the First Laid Egg, whose <hi>Nest</hi> was the <hi>Ʋniverse,</hi> its <hi>White</hi> the <hi>Water,</hi> and its <hi>Yolk</hi> the <hi>Earth,</hi> its <hi>Dame</hi> the <hi>Spirit.</hi>
+            </p>
+            <p n="4">IV. —֔— is upon <hi>Elohim,</hi> by <hi>R.</hi> 4. M. 3. and shews <hi>silluk</hi>'s Proposition to be compleated. God the Creator of the Earth is Author and Director of that Motion by which it was put in a posture and readiness for reception of future Form and Or<g ref="char:EOLhyphen"/>der. 1. It teacheth us that this Motion is not for<g ref="char:EOLhyphen"/>tuitous, left to produce things by Chance, but is under the Conduct of Divine Wisdom. And 2. It makes a considerable distinction between the First Creation that was in a Moment, and the Second that was in Time, each Day having a di<g ref="char:EOLhyphen"/>stinct Work; for Motion and Time are insepara<g ref="char:EOLhyphen"/>ble, succession, gradual progression is absolutely necessary to both; though it was by the Counsel of the Divine Will how many Days should be spent in it, it was absolutely necessary some should, since it was done by Motion. 3. The after Laws of Motion in natural Production, were not the Rules of the Motion of this Week; these Moti<g ref="char:EOLhyphen"/>ons have the Creature for Author, this the Crea<g ref="char:EOLhyphen"/>tor <hi>actus imperii;</hi> the one of Nature, the other of GOD. The Office of —֔— is twofold, <hi>to stand at the beginning of</hi> silluk's <hi>sentence, and at the end of his own:</hi> The former I have now done with; the second is very short and follows.</p>
+            <p n="5">V. —֣— is under <hi>ruahh</hi> by <hi>R.</hi> 2. <hi>M.</hi> 1. the <hi>Spirit of God,</hi> or the Spirit <hi>GOD,</hi> as <hi>John</hi> 4. <hi>God is a Spirit.</hi> There are more things bears the Name <hi>ruahh,</hi> but <hi>Elohim</hi> is added for distinction, it is hard to disprove either, and hard to make choice, the one denotes more the Divine Essence, the other
+<pb n="18" facs="tcp:204303:11"/>some distinct Principle in that Essence. But the most material, and most agitated Question in this <hi>verse</hi> is, whether <hi>Elohim</hi> be taken Metaphorically for <hi>exceeding great,</hi> and <hi>ruahb</hi> for <hi>Wind;</hi> so that the sense should be <hi>an exceeding great Wind moved upon the face of the Earth;</hi> the Authors are great and numerous, and the pretence is fair, <hi>ruahh</hi> sig<g ref="char:EOLhyphen"/>nifies <hi>Wind</hi> often, and <hi>Elohim</hi> is so taken often; <hi>Monsieur le Cenn</hi>'s late Book pleads hard for this.</p>
+            <p>In Answer, I shall propose only the Cha<g ref="char:EOLhyphen"/>racters of <hi>distinction</hi> that these <hi>Points</hi> afford when <hi>Elohim</hi> is thus Metaphorical for <hi>exceeding,</hi> or the superlative degree, then the Word qualified by it wears a <hi>Minor,</hi> not a <hi>Minister,</hi> as here. And <hi>First,</hi> Observe that the relation and coherence in sense, is much different, and we may see this from the Phrase in <hi>Greek, Act</hi> 7.20. the <hi>English</hi> is that <hi>Moses was very fair;</hi> but the <hi>Greek</hi> is <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>he was fair to God.</hi> The Parallel to which you have <hi>Jonah</hi> 3.3. <hi>Nineve was a City great to God,</hi> there is —֙— <hi>paschta</hi> upon <hi>great</hi> —֥— <hi>sakephs minor,</hi> not —֤— as here, <hi>sakeps Minister;</hi> for <hi>sakeph</hi> is upon <hi>Elohim</hi> in both places. So 2 <hi>Cor.</hi> 10.4. <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mighty thoro God,</hi> or <hi>by him;</hi> he with others, think the sense is <hi>very powerful.</hi> A second <hi>Ob<g ref="char:EOLhyphen"/>servation</hi> is, That the Phrase is never used but where it admits of a Literal Exposition, as we see our Translators say a Truth in this, 2 <hi>Cor.</hi> 10.4. <hi>mighty thoro God,</hi> and so 11.2. <hi>a godly Jealousie,</hi> and 8.2. <hi>the Grace of God; Great Charity,</hi> says he, <hi>be<g ref="char:EOLhyphen"/>stowed among the Churches.</hi> It is true God is in the <hi>Genitive</hi> in these two places; but not so true, that that is their sense, tho the Rule is true, and therefore the sense of this place would be a Wind created by God, prae-existent to Wind after<g ref="char:EOLhyphen"/>wards
+<pb n="19" facs="tcp:204303:11"/>created, as the Body of Light was to the Sun.</p>
+            <p>Third <hi>Observation</hi> which contains the decision of the Case, <hi>ruahh</hi> would have <hi>paschta</hi> on it, <hi>sa<g ref="char:EOLhyphen"/>kephs minor,</hi> as <hi>Jonah</hi> 3.3. for confirmation where<g ref="char:EOLhyphen"/>of see <hi>Gen.</hi> 30.8. <hi>with great wrestlings,</hi> or the <hi>wrest<g ref="char:EOLhyphen"/>lings of God;</hi> there is indeed <hi>Kadma,</hi> but <hi>Clod</hi>'s Bible shews a variety of Reading in the Case, and the constant Chain of <hi>Points</hi> shews a mis-Printing, and that by turning the <hi>iron Letter</hi> —֙— for —֜— the <hi>Points</hi> in the Text stand thus —֖— —֧— —֙— —֗— Now compare <hi>tebhirs</hi> Dominion, <hi>T.</hi> 1. <hi>Col.</hi> 11. and its thus —֖— —֧— —֜— —֗— 2dly, <hi>Kadmah</hi> is only servant to —֜—, and <hi>geresh</hi> is not here, therefore no place for <hi>kadma.</hi> 3dly, Two <hi>Ministers</hi> can never come together, and —֧— is a <hi>Minister,</hi> therefore —֙— ano<g ref="char:EOLhyphen"/>ther <hi>Minister</hi> cannot come next, and the same Case occurs, <hi>Gen.</hi> 23.6. <hi>Thou art a great Prince among us,</hi> 2 <hi>Chr.</hi> 28.13. has —֜— plainly, the other places are but compounds, <hi>Cant.</hi> 8.6. <hi>Jer.</hi> 2.31. or Poetical, with a Rhetorical <hi>Point,</hi> a <hi>Psal.</hi> 36.7. &amp; 80.11. So we see the Phrase is to be retain'd, <hi>the Spirit of God,</hi> not a <hi>great Wind,</hi> which may be con<g ref="char:EOLhyphen"/>firm'd from what doth precede; as 2dly, from o<g ref="char:EOLhyphen"/>ther Scriptures, <hi>Psal.</hi> 33.6. <hi>By the Word of the Lord were the Heavens made, and all the Host of them by the breath of his mouth.</hi> See <hi>Job</hi> 26.33. &amp; 38.4. <hi>Acts</hi> 1.6. &amp; 4.24. And 3dly, the Phrase for tho <hi>ruahh</hi> signifie the <hi>Wind,</hi> never <hi>ruahh Elohim;</hi> it were absurd to mention it.</p>
+            <p n="6">VI. —֑— under <hi>tehhom</hi> signifies the <hi>haemistich</hi> of the <hi>verse,</hi> to terminate in this Word: —֑— is now Grammatical, and his Office by <hi>R.</hi> 1. <hi>M.</hi> 2. to di<g ref="char:EOLhyphen"/>vide the true middle of Sense, which is an evident <hi>index</hi> of these <hi>Points</hi> being a Logical Instrument,
+<pb n="20" facs="tcp:204303:12"/>as well as Rhetorical and Syntactical; the Preach<g ref="char:EOLhyphen"/>er can never mistake in dividing his Text, taking them for Rule.</p>
+            <p>The sum of the <hi>Verse</hi> is to Characterize the <hi>Earth</hi> as first made, before it was brought into a comely and perfect Order. Now the Characters are such as denote imperfection or perfection, and between these on the one side stands —֑—, and on the other side the adversative [<gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] not to be Translated <hi>and but but (but—the Spirit of the Lord, &amp;c.</hi> tho it was in such a stupendious, confus'd condi<g ref="char:EOLhyphen"/>tion, yet there was a <hi>Dam</hi>'s influence over it that could preserve it from Dissolution, and ripen it un<g ref="char:EOLhyphen"/>to Maturity.</p>
+            <p n="7">VII. The Negative Properties are Three, the last in a Proposition by it self, <hi>And darkness was upon the face of the Earth,</hi> pointed regularly, as before —֑— —֣— —mahapakh;— —֖— see <hi>T.</hi> 1. <hi>col.</hi> 2. <hi>R.</hi> 1. <hi>M.</hi> 2. <hi>R.</hi> 2. <hi>M.</hi> 1. <hi>R. R.</hi> 3. <hi>M.</hi> 1. <hi>R.</hi> 3. <hi>M.</hi> 1. a defect with which neither Form nor Inhabitant could consist, and therefore first remov'd in general, in the later part of this day, and more perfectly in the Fourth Day.</p>
+            <p n="8">VIII. The other two Properties (tho every Co<g ref="char:EOLhyphen"/>pulative, whether in Subject or Praedicate, makes two Propositions Logically) make one Gramma<g ref="char:EOLhyphen"/>tical Proposition, and one in the Author's inten<g ref="char:EOLhyphen"/>tion, which is the scope of the <hi>Points</hi> (as the Au<g ref="char:EOLhyphen"/>thor of <hi>Cosri</hi> says) and is a considerable help to the Interpreter; for often, formal Propositions, by the Rules of Logick, as in this very Chapter, are but amplifications of the Subject or Praedicate in the Authors intention; the <hi>Points</hi> in this Pro<g ref="char:EOLhyphen"/>position stands thus —֔— —֙ ֨— —֥— —֗—. But if one con<g ref="char:EOLhyphen"/>sult the <hi>Table</hi> 1. <hi>Col.</hi> 4. <hi>Sakeph</hi>'s Train stands
+<pb n="21" facs="tcp:204303:12"/>thus, —֔— —֣— —֙— —֤— the reasons of the variation I shall immediately prosecute.</p>
+            <p n="1">1. Then we see <hi>sakeph</hi> more visibly than under <hi>silluk's</hi> dominion, beginning <hi>Atnah</hi>'s Proposition by <hi>R.</hi> 4. <hi>M.</hi> 3. which shews that (<hi>is</hi> or <hi>was</hi>) is to be supply'd (another use of these <hi>Points,</hi> little observ'd in our Translation) for a Proposition can<g ref="char:EOLhyphen"/>not be without an <hi>indicative</hi> Verb. and standing in the end of his own by <hi>R.</hi> 6. <hi>M.</hi> 1. and this upon <hi>vabohu,</hi> which <hi>B. Var.</hi> (the only Interpre<g ref="char:EOLhyphen"/>ter I have heard of for this Thousand Years, that used this Key to unlock Scripture-sense, and he out of <hi>Raschi</hi>) turns well thus, <hi>But also void of form,</hi> it wanted not only Inhabitants, but it was uncapable to receive them, a privation, want is common to both, <hi>Jer.</hi> 4.23. <hi>Isa.</hi> 24.10. and <hi>Moses</hi> ascends by gradation, want of Men, and want of fitness to receive them.</p>
+            <p n="2">2. —֙ ֨— <hi>Pascha</hi> on <hi>tohu</hi> which is doubled by <hi>T.</hi> 1. <hi>N.</hi> 5. because the <hi>accent</hi> is in the <hi>penult,</hi> or the Word is <hi>milhil,</hi> signifies that (<gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) here is adver<g ref="char:EOLhyphen"/>sative, signifying not copulation, but opposition, or that <hi>tòhu</hi> and <hi>bòhu</hi> are in distinct Propositions the Word <hi>was</hi> being repeated, <hi>it was without in<g ref="char:EOLhyphen"/>habitants, and it was without form;</hi> it is probable, that <hi>tehom</hi> the <hi>abyss,</hi> and <hi>tohu</hi> without <hi>inhabitant,</hi> come from one <hi>root,</hi> for that mixture with <hi>waters,</hi> or <hi>covering</hi> by it, was reason sufficient for it. This Privation or Emptiness was filled up on the Fifth and Sixth Day.</p>
+            <p n="3">3. —֥— <hi>Paschta</hi>'s, not <hi>sakeph</hi>'s servant is on <hi>haje<g ref="char:EOLhyphen"/>tha, was,</hi> and shews Mr. <hi>Bamp. Pansophia</hi> to miss this part of Learning, for he translates the Words thus, <hi>and the Earth was, and</hi> tohu <hi>was, and</hi> bohu <hi>was;</hi> Three distinct Globes, Earth, Hell, and the
+<pb n="22" facs="tcp:204303:13"/>empty Space between them; for <hi>Earth</hi> is separated from <hi>was,</hi> and <hi>tohu</hi> is joined with <hi>was</hi> as praedi<g ref="char:EOLhyphen"/>cate to some subject it is affirm'd of: So that it is a qualification of some subject, and not a distinct subject.</p>
+            <p n="4">4. —֗— <hi>Sakeph</hi>'s <hi>major</hi> is on <hi>Earth,</hi> and imports the whole to be but one Sentence; and 2dly, it im<g ref="char:EOLhyphen"/>ports that <hi>Earth</hi> is by no means Nominative to <hi>was,</hi> for then the <hi>Points</hi> would be —֔— —֣— —֙ ֨— —֤—, But <hi>rebhia</hi> a <hi>major,</hi> makes a great distinction, and shews that <hi>Earth</hi> is propos'd as the Subject of the whole future Discourse to this effect: <hi>Para:</hi>] <q rend="inline">
+                  <hi>But as to the Earth;</hi> Beside this Earth God created many Heavens, Coelestial Spheres of vast Number and Variety; <hi>Many Mansions,</hi> of whose Nature or Form we are neither capable to know or speak, except we be transported thi<g ref="char:EOLhyphen"/>ther, and tho we were, would not be capable of instructing any body of this Globe, the Words <hi>Paul</hi> heard were unutterable as to any such pur<g ref="char:EOLhyphen"/>pose, for had he call'd things by the Names he heard, it had been an unknown Tongue. If by our Names, our Thoughts had risen no higher than the accustomed Earthly Idea that Word is a sign of. We call the Places Heaven or High, and the Natives Angels or Messengers, let the Species be what it will. Now says <hi>Moses,</hi> though this Kingdom of Heaven some one may be <hi>Mat.</hi> 25.34. is prepar'd for you, and tho I assure you God made them all <hi>out of nothing;</hi> Yet I will not undertake to describe these Places, or how they were made: But as to our own Country, this lowest place, <hi>the Earth,</hi> know that when it was first created, <hi>it was without Man, without any living Creature: Job</hi> brings in the Angels shining like
+<pb n="23" facs="tcp:204303:13"/>Morning-Stars, and singing like the early Larks, even shouting (from the first Moment of the be<g ref="char:EOLhyphen"/>ginning) <hi>Halelujahs</hi> to that great <hi>Adori,</hi> the Cre<g ref="char:EOLhyphen"/>ator; but however the Heavens were replenished, this little Farm was neither stock'd nor tenanted; <hi>And void of that due Order and Form</hi> that was ne<g ref="char:EOLhyphen"/>cessary to afford Man or Beast a comfortable Ha<g ref="char:EOLhyphen"/>bitation; the Materials of this House were provi<g ref="char:EOLhyphen"/>ded, but lying in heaps, the Walls not built, nor the Wells digged, the Canopy not spread over the Tent, nor the Partitions set up; the very Floors were not laid, nor Drainers cut: Hence all was a <hi>Deep,</hi> an <hi>Abyss,</hi> a Lake of Water, with<g ref="char:EOLhyphen"/>out a bottom. <hi>And darkness was upon the face of this deep;</hi> Neither Sun to shine and rule by <hi>Day,</hi> nor Moon by <hi>Night,</hi> not the Sparkle of one Star; Never was there a Night so dark as what belong'd to the First Day: Here was neither the Light of the Candle, nor the flame or glow of Fire to supply this defect; the faint and pale light of the Glow-Worm had been here a Con<g ref="char:EOLhyphen"/>solation; the <hi>Egyptian</hi> darkness that could be felt was preferable to this.</q>
+            </p>
+            <p>
+               <q rend="inline">
+                  <hi>But the Spirit of God did brood upon the face of the Waters;</hi> tho it wanted all these, it was put under a tendency toward them, a quantity of Mo<g ref="char:EOLhyphen"/>tion was created capable of all Varieties, and able to put the World into the most compleat Perfe<g ref="char:EOLhyphen"/>ction, being directed by that Imperial Word of GOD, and these Directions exerted by that im<g ref="char:EOLhyphen"/>mediate quickening and influencing Spirit of GOD.</q>
+            </p>
+            <p>Hence we learn, That all this Discourse of <hi>Mo<g ref="char:EOLhyphen"/>ses,</hi> and all these Objects spoken of in this Chapter, Heavens, Sun, Moon and Stars, all belong to this
+<pb n="24" facs="tcp:204303:14"/>Earth, and all come within <hi>Moses</hi>'s proposed sub<g ref="char:EOLhyphen"/>ject <hi>Earth,</hi> in opposition to <hi>Heavens;</hi> all brought out of this Water by the Spirits hatching Motion. This <hi>Earth</hi> has its Heavens and Earth, its aboves and belows; but the Heavens that were made the First Day, are no where in our Bible Characteriz'd, they are left for our study when we come to dwell in their Mansions.</p>
+            <p>
+               <hi>Scope:] Rhetorical</hi> —֗—<hi>rebkia</hi> shews that the scope of this <hi>Verse</hi> is to describe the <hi>Earth</hi> by its Characters after the first creative Act.</p>
+            <p>
+               <hi>Division:] Grammatical</hi> —֑— <hi>Atnach</hi> shews the first Division of the <hi>Verse</hi> is at <hi>deep;</hi> the first <hi>Haemistich</hi> containing the <hi>negative</hi> Characters, the second the <hi>positive.</hi> —֔—<hi>sakeph</hi> subdivides the first into two <hi>relative Propositions,</hi> the first whereof is <hi>complex</hi> of two pro<g ref="char:EOLhyphen"/>perties as to the Earth; it was first without Inha<g ref="char:EOLhyphen"/>bitant: Secondly, without capacity to receive them. The second is simple, <hi>darkness was upon the face of the deep,</hi> in which state it was not capable to produce one Plant or Herb, therefore that defect was first supply'd by Creation of Light. The second <hi>Haemi<g ref="char:EOLhyphen"/>stich</hi> contains but one <hi>Proposition, viz.</hi> an <hi>assertion</hi> of the preserving and Nursing Care of Divine Provi<g ref="char:EOLhyphen"/>dence. To withstand the wasting and wearing of Creature Nature, there was need of the Breasts of All-sufficiency to maintain what Omnipotence had produc'd. It is therefore only sub-divided into Three single Terms, the <hi>Agent</hi> by —֔— the <hi>Spirit of the Lord,</hi> the <hi>action</hi> by — ֖— an <hi>hatching</hi> or <hi>brooding motion;</hi> the <hi>object</hi> by the same, the <hi>Waters,</hi> the <hi>Deep</hi> or <hi>Earth.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>By a Well-wisher to thy growth in Grace and Knowledge,</hi> Walter Cross.</signed>
+            </closer>
+            <pb facs="tcp:204303:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
